@@ -4,4 +4,4 @@ I recently read this article from the New York Times about Helium, a decentraliz
 
 In reality, though, intertwining cryptocurrency as an incentive for people to use their product is a genius idea. It provides utility for cryptocurrency, something that people sometimes fail to see in other tokens. I personally believe that projects like these are the future of our world, not profile picture NFTs that have no real utility. I hope to see more of these projects in the future.
 
-[^1]: An interesting article. I like the author's depiction of Helium as something mundanely useful; not a lot of crypto has this image. 
+[^1]: An interesting article. I like the author's depiction of Helium as something mundanely useful; not a lot of crypto has this image. -Xuelong(Phillip) Jiang
